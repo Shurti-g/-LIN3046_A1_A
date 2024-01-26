@@ -43,7 +43,7 @@ Contributions to the corpus, including additional picture books or improvements 
 
 example: text1_Where the Wild Things Are.txt
 
-#### Group Members
+## Group Members
 
 Tam Tak Hei Haley S1150679
 
