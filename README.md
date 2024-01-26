@@ -55,10 +55,10 @@ So Chun Hei Moses S11485528
 
 #### Division of work
 
-Tam Tak Hei Haley S1150679
+Tam Tak Hei Haley 
 
-Yuen Wing Tung Zoe S11418862
+Yuen Wing Tung Zoe 
 
-Gurung Shurti S11488685
+Gurung Shurti 
 
 So Chun Hei Moses (16-20)
