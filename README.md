@@ -23,6 +23,11 @@ Age-group
 
 The file should be stored as plain text format (.txt)
 
+### File Organisation
+
+Please name the file in this format, text1_title of the book.txt
+example: text1_Where the Wild Things Are.txt
+
 #### Group Members
 
 TAM TAK HEI HALEY s1150679
