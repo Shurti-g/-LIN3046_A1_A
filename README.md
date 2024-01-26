@@ -1,31 +1,54 @@
-# LIN3046__A1_A
+# Lin3046_A1_A
 
-## This is the PURPOSE of the project
-The purpose of this project is to understand how children picture books illustrate the pictures with language.
+## Purpose
 
-### Scope 
-This is a collection of texts from children picture books.
+The purpose of this project is to understand how children's picture books illustrate pictures with language. By analyzing a collection of texts from children's picture books, we aim to gain insights into the relationship between the textual elements and the accompanying illustrations.
 
-### Metadata
-Date
+## Scope
 
-Author
+This corpus consists of texts extracted from children's picture books. The focus is on capturing the language used in captions, story text, and dialogue within the books.
 
-Language
+## Metadata
 
-Source
+Date: The date when the corpus was created or last updated.
 
-Publisher
+Author: The primary author or authors of the corpus.
 
-Age-group
+Language: The language(s) of the texts in the corpus.
 
-### File format
+Source: The source(s) from where the texts were obtained.
 
-The file should be stored as plain text format (.txt)
+Publisher: The publisher(s) of the picture books included in the corpus.
 
-### File Organisation
+Age-group: The intended age group or reading level of the picture books.
 
-Please name the file in this format, text1_title of the book.txt
+## File Format
+
+Each file in the corpus should be stored as plain text format (.txt). This format ensures compatibility and ease of use for various text analysis tools and techniques.
+
+## File Organization
+
+Please name each file using the following format: textX_title of the book.txt, where X is a unique identifier for each book. For example: text1_Where the Wild Things Are.txt.
+
+## Group Members
+
+TAM TAK HEI HALEY (s1150679)
+
+YUEN WING TUNG ZOE (s11418862)
+
+Gurung Shurti (s11488685)
+
+So Chun Hei Moses (s11485528)
+
+## Usage
+
+Researchers, linguists, educators, and practitioners interested in studying children's literature, language development, or the interaction between language and visual elements can use this corpus for analysis. 
+
+The corpus can be accessed by cloning or downloading this repository, and individual text files can be used for further research.
+
+## Contribution
+
+Contributions to the corpus, including additional picture books or improvements to the existing texts, are welcome. Please follow the guidelines provided in the contribution.md file.ormat, text1_title of the book.txt
 
 example: text1_Where the Wild Things Are.txt
 
