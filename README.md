@@ -30,15 +30,6 @@ Each file in the corpus should be stored as plain text format (.txt). This forma
 
 Please name each file using the following format: textX_title of the book.txt, where X is a unique identifier for each book. For example: text1_Where the Wild Things Are.txt.
 
-## Group Members
-
-TAM TAK HEI HALEY (s1150679)
-
-YUEN WING TUNG ZOE (s11418862)
-
-Gurung Shurti (s11488685)
-
-So Chun Hei Moses (s11485528)
 
 ## Usage
 
