@@ -8,10 +8,15 @@ This is a collection of texts from children picture books.
 
 ### Metadata
 Date
+
 Author
+
 Language
+
 Source
+
 Publisher
+
 Age-group
 
 ### File format
