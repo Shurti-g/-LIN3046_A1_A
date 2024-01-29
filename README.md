@@ -45,7 +45,7 @@ example: text1_Where the Wild Things Are.txt
 
 ## Group Members
 
-Tam Tak Hei Haley S1150679
+Tam Tak Hei Haley S11506798
 
 Yuen Wing Tung Zoe S11418862
 
@@ -55,10 +55,10 @@ So Chun Hei Moses S11485528
 
 #### Division of work
 
-Tam Tak Hei Haley 
+Tam Tak Hei Haley （11-15）
 
-Yuen Wing Tung Zoe 
+Yuen Wing Tung Zoe （1-5）
 
-Gurung Shurti 
+Gurung Shurti （6-10）
 
 So Chun Hei Moses (16-20)
